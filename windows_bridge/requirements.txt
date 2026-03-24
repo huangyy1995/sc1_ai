@@ -1,0 +1,3 @@
+# Windows Bridge Requirements
+# Use standard pip install on the Windows machine
+pybrood

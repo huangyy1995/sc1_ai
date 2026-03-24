@@ -1,0 +1,4 @@
+# no dependencies strictly required for base TCP client yet.
+# PyTorch can be added here later:
+# torch
+# numpy
